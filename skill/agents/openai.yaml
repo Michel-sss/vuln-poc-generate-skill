@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vuln PoC Generate"
+  short_description: "Build reproducible PoCs from GitHub fix commits."
+  default_prompt: "Given a GitHub vulnerability fix commit URL, analyze the patch and produce a safe, reproducible PoC with setup, trigger, expected behavior, and verification on vulnerable vs patched revisions."
