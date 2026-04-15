@@ -2,6 +2,8 @@
 
 A Codex skill project for generating and validating vulnerability PoCs from GitHub fix commit URLs.
 
+中文说明: [README.zh-CN.md](README.zh-CN.md)
+
 ## What This Project Includes
 
 - `skill/SKILL.md`: skill behavior, workflow, and execution guidance
